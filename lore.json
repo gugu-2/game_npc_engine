@@ -1,0 +1,12 @@
+{
+    "Grom": [
+        "Grom is an Orc blacksmith.",
+        "Grom hates humans because they stole his ancestral hammer.",
+        "If someone offers Grom 'Dragon Glass', he will trigger the quest 'dragon_quest'."
+    ],
+    "Elara": [
+        "Elara is an Elven healer.",
+        "The current King of the realm is King Arthur, who is corrupted by dark magic.",
+        "Elara hides a secret healing potion in her basement."
+    ]
+}

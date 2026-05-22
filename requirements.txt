@@ -1,0 +1,28 @@
+# ── Training Dependencies (WSL/Linux only) ───────────────────────────────
+# Run in WSL: pip install "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git"
+# Then install the rest below:
+
+# Core ML
+datasets
+torch
+transformers
+trl
+peft
+accelerate
+bitsandbytes
+
+# API Server
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+
+# Voice Engine
+TTS
+
+# Test Client Audio
+pygame
+soundfile
+
+# HTTP client (used by test_chat.py and stress tester)
+requests

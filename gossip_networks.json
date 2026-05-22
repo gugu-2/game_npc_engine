@@ -1,0 +1,5 @@
+{
+  "village_of_arkham": ["Grom", "Elara", "Innkeeper", "Guard Captain"],
+  "thieves_guild":     ["Shadow Broker", "Fence", "Pickpocket"],
+  "castle_court":      ["King's Advisor", "Court Mage", "Royal Guard"]
+}
