@@ -79,3 +79,8 @@ python test_chat.py
 
 ### Step 4: Integrate into your game
 Copy the appropriate SDK file from the `sdk/` folder into your game engine project.
+
+
+---
+
+### Email me on majipritam47@gmail.com For any enquiry.
